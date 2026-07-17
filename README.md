@@ -26,7 +26,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="500">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 <br/>
 
@@ -173,14 +175,6 @@ Centralized repo of deployment pipelines and microservice orchestration framewor
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Khuhsirox25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="165em" src="https://streak-stats.demolab.com/?user=Khuhsirox25&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khuhsirox25&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Khuhsirox25&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
 
 <br/>
 
