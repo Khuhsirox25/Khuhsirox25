@@ -20,14 +20,14 @@ It keeps the professional, deep-tech **Midnight Blue & Mint Green** color palett
 </h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0EA5E9&label=SYSTEM+VISITS" alt="Views" />
+  <a href="https://github.com/Khushirox25">
+    <img src="https://komarev.com/ghpvc/?username=Khushirox25&style=for-the-badge&color=0EA5E9&label=SYSTEM+VISITS" alt="Views" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=10B981&label=NETWORK" alt="Followers" />
+  <a href="https://github.com/Khushirox25?tab=followers">
+    <img src="https://img.shields.io/github/followers/Khushirox25?style=for-the-badge&logo=github&color=10B981&label=NETWORK" alt="Followers" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=334155&label=STARS" alt="Stars" />
+  <a href="https://github.com/Khushirox25?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Khushirox25?style=for-the-badge&logo=github&color=334155&label=STARS" alt="Stars" />
   </a>
   <img src="https://img.shields.io/badge/Production-Ready-brightgreen?style=for-the-badge&logo=kubernetes" alt="Production-Ready" />
 </p>
@@ -214,17 +214,17 @@ graph LR
 ## 📊 Live Metrics & Telemetry
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=0EA5E9&icon_color=10B981&text_color=E2E8F0&bg_color=0F172A" />
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&fire=0EA5E9&ring=10B981&bg_color=0F172A&stroke=0EA5E9&currStreakNum=10B981&sideNums=E2E8F0" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Khushirox25&show_icons=true&theme=tokyonight&hide_border=true&title_color=0EA5E9&icon_color=10B981&text_color=E2E8F0&bg_color=0F172A" />
+  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushirox25&theme=tokyonight&hide_border=true&fire=0EA5E9&ring=10B981&bg_color=0F172A&stroke=0EA5E9&currStreakNum=10B981&sideNums=E2E8F0" />
 </p>
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=0EA5E9&icon_color=10B981&text_color=E2E8F0&bg_color=0F172A" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushirox25&layout=compact&theme=tokyonight&hide_border=true&title_color=0EA5E9&icon_color=10B981&text_color=E2E8F0&bg_color=0F172A" />
 </p>
 
 ### 🐍 Code Activity Matrix
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://github.com/Khushirox25/Khushirox25/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 <p align="center">
@@ -253,7 +253,7 @@ graph LR
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Khushirox25">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
