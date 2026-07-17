@@ -102,11 +102,9 @@ I design, build, and automate resilient cloud-native infrastructures and intelli
 
 <br/>
 
-## 🛠️ Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35" align="center"> Tech Stack
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450">
 
 **Languages & Frameworks**
 <br/>
@@ -126,15 +124,7 @@ I design, build, and automate resilient cloud-native infrastructures and intelli
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="450">
-
-<br/>
-
-## 💼 Featured Projects
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35">
+## <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="35" align="center"> Featured Projects
 
 <table width="100%">
 <tr>
