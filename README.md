@@ -192,7 +192,7 @@ Centralized repo of deployment pipelines and microservice orchestration framewor
 ## 🐍 Engineering Philosophy
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="180">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100cm">
 </div>
 
 ```python
@@ -220,7 +220,7 @@ I'm always up for a conversation about cloud architecture, MLOps, or system desi
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="180cm">
 
 **Thanks for stopping by — always happy to connect and build something great together!**
 
