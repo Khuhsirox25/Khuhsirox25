@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="500">
 
 <br/>
 
@@ -51,7 +51,7 @@ I design, build, and automate resilient cloud-native infrastructures and intelli
 </td>
 <td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="90%">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="65%">
 
 </td>
 </tr>
@@ -106,7 +106,7 @@ I design, build, and automate resilient cloud-native infrastructures and intelli
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450">
 
 **Languages & Frameworks**
 <br/>
@@ -128,13 +128,13 @@ I design, build, and automate resilient cloud-native infrastructures and intelli
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="450">
 
 <br/>
 
 ## 💼 Featured Projects
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35">
 
 <table width="100%">
 <tr>
