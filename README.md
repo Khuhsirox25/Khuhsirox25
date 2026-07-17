@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8140-b940ab84e96e.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
 
 <br/>
 
@@ -51,7 +51,7 @@ I design, build, and automate resilient cloud-native infrastructures and intelli
 </td>
 <td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2f4b64-1b37-4c81-9d40-9207a5f9ac0d.gif" width="90%">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="90%">
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ I design, build, and automate resilient cloud-native infrastructures and intelli
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="100%">
 
 <br/>
 
@@ -236,7 +236,7 @@ I'm always up for a conversation about cloud architecture, MLOps, or system desi
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/221857984-99793e0c-eb85-4ae2-9c1e-8fe6f5b31346.gif" width="70">
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="80">
 
 **Thanks for stopping by — always happy to connect and build something great together!**
 
