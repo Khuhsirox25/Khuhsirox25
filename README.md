@@ -1,10 +1,4 @@
-Here is the updated version, loaded with **more animations and high-energy developer/cloud/AI GIFs** directly integrated into the Project Showcase cards to make them stand out. 
-
-It keeps the professional, deep-tech **Midnight Blue & Mint Green** color palette while looking extremely dynamic and interactive.
-
-### Copy & Paste Code:
-
-```markdown
+````markdown
 <!-- ========================================================= -->
 <!--          PREMIUM DEVOPS & AI ARCHITECT README             -->
 <!-- ========================================================= -->
@@ -20,14 +14,14 @@ It keeps the professional, deep-tech **Midnight Blue & Mint Green** color palett
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Khushirox25">
-    <img src="https://komarev.com/ghpvc/?username=Khushirox25&style=for-the-badge&color=0EA5E9&label=SYSTEM+VISITS" alt="Views" />
+  <a href="https://github.com/Khuhsirox25">
+    <img src="https://komarev.com/ghpvc/?username=Khuhsirox25&style=for-the-badge&color=0EA5E9&label=SYSTEM+VISITS" alt="Views" />
   </a>
-  <a href="https://github.com/Khushirox25?tab=followers">
-    <img src="https://img.shields.io/github/followers/Khushirox25?style=for-the-badge&logo=github&color=10B981&label=NETWORK" alt="Followers" />
+  <a href="https://github.com/Khuhsirox25?tab=followers">
+    <img src="https://img.shields.io/github/followers/Khuhsirox25?style=for-the-badge&logo=github&color=10B981&label=NETWORK" alt="Followers" />
   </a>
-  <a href="https://github.com/Khushirox25?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Khushirox25?style=for-the-badge&logo=github&color=334155&label=STARS" alt="Stars" />
+  <a href="https://github.com/Khuhsirox25?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Khuhsirox25?style=for-the-badge&logo=github&color=334155&label=STARS" alt="Stars" />
   </a>
   <img src="https://img.shields.io/badge/Production-Ready-brightgreen?style=for-the-badge&logo=kubernetes" alt="Production-Ready" />
 </p>
@@ -42,9 +36,9 @@ It keeps the professional, deep-tech **Midnight Blue & Mint Green** color palett
   <tr>
     <td width="60%" valign="top">
       <p>🎓 <strong>B.Tech Computer Science Engineering</strong></p>
-      <p>💻 Passionate about building and automating scalable, highly available systems powered by <strong>Cloud, DevOps, and Artificial Intelligence</strong>.</p>
-      <p>🚀 I specialize in taking applications through the entire lifecycle: <strong>Idea ➜ Clean Code ➜ Docker ➜ Kubernetes ➜ AWS ➜ CI/CD Pipelines</strong>.</p>
-      <p><i>"I don't just write code; I engineer systems designed to scale and self-heal under load."</i></p>
+      <p>💻 Passionate about building and automating scalable, highly available systems powered by <strong>Cloud, DevOps, and AI.</strong></p>
+      <p>🚀 I enjoy taking projects <strong>from idea ➜ development ➜ Docker ➜ Kubernetes ➜ AWS ➜ CI/CD</strong> instead of stopping after writing code.</p>
+      <p><i>"I don't just build projects. I build systems that can scale."</i></p>
     </td>
     <td width="40%" align="right" valign="top">
       <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="280px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
@@ -214,33 +208,139 @@ graph LR
 ## 📊 Live Metrics & Telemetry
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Khushirox25&show_icons=true&theme=tokyonight&hide_border=true&title_color=0EA5E9&icon_color=10B981&text_color=E2E8F0&bg_color=0F172A" />
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushirox25&theme=tokyonight&hide_border=true&fire=0EA5E9&ring=10B981&bg_color=0F172A&stroke=0EA5E9&currStreakNum=10B981&sideNums=E2E8F0" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Khuhsirox25&show_icons=true&theme=tokyonight&hide_border=true&title_color=0EA5E9&icon_color=10B981&text_color=E2E8F0&bg_color=0F172A" />
+  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Khuhsirox25&theme=tokyonight&hide_border=true&fire=0EA5E9&ring=10B981&bg_color=0F172A&stroke=0EA5E9&currStreakNum=10B981&sideNums=E2E8F0" />
 </p>
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushirox25&layout=compact&theme=tokyonight&hide_border=true&title_color=0EA5E9&icon_color=10B981&text_color=E2E8F0&bg_color=0F172A" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khuhsirox25&layout=compact&theme=tokyonight&hide_border=true&title_color=0EA5E9&icon_color=10B981&text_color=E2E8F0&bg_color=0F172A" />
 </p>
 
 ### 🐍 Code Activity Matrix
 <p align="center">
-  <img src="https://github.com/Khushirox25/Khushirox25/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://github.com/Khuhsirox25/Khuhsirox25/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656981-6f6d0d3c-66a5-4b95-8b43-2d3cbf0c89c1.gif" width="100%">
 </p>
 
-## 📅 Roadmap & Focus
+## ☕ Beyond Coding
 
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      ☁️
+      <h3>Cloud</h3>
+      <p>Building scalable cloud-native architectures</p>
+    </td>
+    <td align="center" width="33%">
+      🤖
+      <h3>AI</h3>
+      <p>Integrating local LLMs into production software</p>
+    </td>
+    <td align="center" width="33%">
+      🚀
+      <h3>DevOps</h3>
+      <p>Automating infrastructure and deployment workflows</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.tenor.com/L95WmEymrJAAAAAC/anime-computer.gif" width="260px" style="border-radius: 10px;"/>
+    </td>
+    <td width="60%" valign="top">
+      <h3>💜 Things I Love</h3>
+      <ul>
+        <li>✨ Building advanced projects from scratch</li>
+        <li>☕ Coffee + Chill Beats + Code</li>
+        <li>🌸 Experimenting with state-of-the-art tech</li>
+        <li>🐳 Containerizing everything with Docker</li>
+        <li>☸️ Designing self-healing clusters in Kubernetes</li>
+        <li>🌍 Open Source collaboration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655848-8b7e3e9f-9e89-46e6-83fa-7a9d0e3f4db0.gif" width="100%">
+</p>
+
+## 💡 Developer Diagnostics & Motivation
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <h4>💻 Random Dev Quote</h4>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <h4>😂 Developer Humor</h4>
+      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> *"Small progress every single day becomes massive success one day."* 💜
+
+<br/>
+
+### ⚡ Systems Telemetry (Fun Facts)
+- 🌸 I enjoy deploying applications much more than just writing the code.
+- ⚡ I believe automation saves countless developer hours and eliminates human error.
+- 🚀 My career focus is developing and scaling production-grade AI platforms.
+- 🐳 Docker remains one of my absolute favorite developer tools.
+
+<br/>
+
+### 📌 Current Focus Matrix
 ```text
-  [████████████████] AWS Cloud (Core)      | 100% Operational
-  [██████████████░░] Kubernetes & Helm    | 85% Configured
-  [████████████░░░░] Terraform & IaC      | 75% Automated
-  [██████████░░░░░░] Generative AI & RAG  | 60% Trained
+  ☁️ AWS Infrastructure Setup
+  🐳 Microservices Dockerization
+  ☸ Kubernetes Scheduling & Ingress
+  ⚙ Declarative CI/CD Pipelines
+  🤖 LLMs & Vector DB RAG Pipelines
 ```
 
 <br/>
+
+### 🧠 Runtime Philosophy
+```python
+class DevOpsLifeCycle:
+    def __init__(self):
+        self.systems_operational = True
+        
+    def execute_loop(self):
+        while self.systems_operational:
+            learn()
+            design()
+            build()
+            test()
+            dockerize()
+            deploy()
+            automate()
+            monitor()
+            optimize()
+            # break_things() && fix_things()
+```
+
+<br/>
+
+---
+
+## 🎵 Currently Jamming To (Spotify)
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117" width="100%">
+</p>
 
 ---
 
@@ -253,7 +353,7 @@ graph LR
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Khushirox25">
+  <a href="https://github.com/Khuhsirox25">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -263,4 +363,4 @@ graph LR
 </p>
 
 <!-- ========================================================= -->
-```
+````
