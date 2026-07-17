@@ -1,133 +1,211 @@
-<!-- ========================================================= -->
-<!--                     PREMIUM GITHUB README                 -->
-<!-- ========================================================= -->
+<!-- ============================================================ -->
+<!--                 KHUSHI AGARWAL — GITHUB PROFILE             -->
+<!-- ============================================================ -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Hey+there!+👋;I'm+Khushi+Agarwal;DevOps+%7C+Cloud+%7C+AI+Engineer;Welcome+to+my+GitHub+💜" />
-</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7F5AF0,50:C084FC,100:7DD3FC&text=Khushi%20Agarwal&fontColor=ffffff&fontSize=55&fontAlign=50&fontAlignY=38&desc=DevOps%20•%20Cloud%20•%20AI%20•%20Backend&descAlign=50&descAlignY=60&animation=fadeIn"/>
-</p>
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0C29,50:7F5AF0,100:7DD3FC&text=Khushi%20Agarwal&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=35&desc=DevOps%20Engineer%20•%20Cloud%20Architect%20•%20AI%20Builder&descSize=20&descAlign=50&descAlignY=55&animation=fadeIn"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=F7C948"/>
-</p>
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Khushi+%F0%9F%91%8B;I+build+cloud-native+systems+that+scale;DevOps+%7C+AI+%7C+Backend+Engineering;Welcome+to+my+corner+of+GitHub+%F0%9F%92%9C" />
 
----
+<br/>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216655840-ef584e23-480a-4d1c-8b0d-1e3b0a1d6d06.gif" width="100%">
-</p>
+<!-- Social + status badges -->
+<a href="https://linkedin.com/in/khushi-agarwal-5745a8314"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:khushiagarwal5403@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-# About Me
+<br/><br/>
 
-🎓 **B.Tech Computer Science Engineering**
+<img src="https://komarev.com/ghpvc/?username=Khuhsirox25&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Khuhsirox25?style=for-the-badge&logo=github&color=C084FC&label=FOLLOWERS"/>
+<img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white"/>
 
-Passionate about designing, building, and automating resilient cloud-native infrastructures and intelligent systems. I focus on taking projects all the way from raw code to containerized, orchestrated, and automated production-ready pipelines.
+</div>
 
-> **"I don't just build projects. I build systems that can scale."**
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8140-b940ab84e96e.gif" width="100%">
 
-# Core Focus & Current Specializations
+<br/>
 
-<table>
+## 🚀 About Me
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### Cloud & Infrastructure
-- AWS (EC2, S3, IAM, CloudFront, EKS)
-- Declarative Infrastructure via Terraform
-- Distributed Systems Architecture
-- High Availability & Multi-Cluster Design
+```yaml
+name: Khushi Agarwal
+role: DevOps | Cloud | AI Engineer
+education: B.Tech, Computer Science Engineering
+focus: Cloud-native infrastructure, MLOps, and intelligent automation
+philosophy: "I don't just build projects — I build systems that scale."
+currently: Designing resilient, containerized, self-healing pipelines
+fun_fact: I speak fluent YAML 😄
+```
 
-</td>
-<td width="50%">
-
-### DevOps & GitOps
-- Docker & Containerization
-- Advanced Kubernetes Orchestration & Helm
-- CI/CD Pipelines (Jenkins & GitHub Actions)
-- Linux Systems & Production Engineering
+I design, build, and automate resilient cloud-native infrastructures and intelligent systems — taking projects from raw code to containerized, orchestrated, production-ready pipelines. I care about systems that don't just work, but keep working under pressure.
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="40%" align="center">
 
-### AI & Data Systems
-- Retrieval-Augmented Generation (RAG)
-- LlamaIndex & Ollama Orchestration
-- Production-Grade MLOps Pipelines
-- High-Throughput Backend APIs (FastAPI)
-
-</td>
-<td>
-
-### Automation & Observability
-- Workflow Automation (n8n & Webhooks)
-- Continuous Monitoring & Observability
-- Linux Administration & Bash Scripting
-- Git Version Control & Secure Deployments
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2f4b64-1b37-4c81-9d40-9207a5f9ac0d.gif" width="90%">
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656981-6f6d0d3c-66a5-4b95-8b43-2d3cbf0c89c1.gif" width="100%">
-</p>
+## 🧠 Core Focus & Specializations
 
-# Tech Stack
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### Languages & Frameworks
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,mysql,fastapi,nodejs,streamlit,mongodb,firebase"/>
-</p>
+### ☁️ Cloud & Infrastructure
+- AWS (EC2, S3, IAM, CloudFront, EKS)
+- Declarative infrastructure with Terraform
+- Distributed systems architecture
+- High-availability, multi-cluster design
 
-### Infrastructure & Tooling
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions,jenkins,bash,tensorflow,pytorch"/>
-</p>
+### 🤖 AI & Data Systems
+- Retrieval-Augmented Generation (RAG)
+- LlamaIndex & Ollama orchestration
+- Production-grade MLOps pipelines
+- High-throughput APIs with FastAPI
 
----
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656967-49a8f0b6-4d5d-4a8e-bf5f-90b6d5d4ef6d.gif" width="100%">
-</p>
+### ⚙️ DevOps & GitOps
+- Docker & containerization
+- Kubernetes orchestration & Helm
+- CI/CD with Jenkins & GitHub Actions
+- Linux systems & production engineering
 
-# Featured Projects
+### 📊 Automation & Observability
+- Workflow automation (n8n, webhooks)
+- Continuous monitoring & observability
+- Bash scripting & Linux administration
+- Git version control & secure deployments
 
-## CampusVibe | AI-Powered University Knowledge Assistant
-A production-grade Retrieval-Augmented Generation (RAG) platform facilitating semantic discovery across institutional documents using local LLMs.
-* **Architecture:** LlamaIndex, Ollama, FastAPI, MongoDB Atlas, Firebase
-* **Infrastructure:** Docker, Kubernetes (Amazon EKS), Helm Charts, CI/CD Automated Retraining Pipelines
+</td>
+</tr>
+</table>
 
-## Mental Health Predictor | Interactive ML Analytics
-An end-to-end machine learning platform predicting psychological wellness vectors using structured psychometric evaluation methodologies.
-* **Core:** Python, Scikit-Learn, Pandas, NumPy, Streamlit Data Visualization Dashboards
+<br/>
 
-## Infrastructure as Code & Continuous Delivery Portfolio
-A centralized repository hosting baseline automated deployment pipelines and microservice orchestration frameworks prioritizing strict production grade observability.
-* **Core:** AWS Ecosystem, Kubernetes Topology, Docker, Jenkins, GitHub Actions, Linux Environments
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-# GitHub Analytics & Metrics
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+**Languages & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,mysql,fastapi,nodejs,streamlit,mongodb,firebase&theme=dark" />
 
----
+<br/><br/>
 
-# Engineering Philosophy
+**Infrastructure & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions,jenkins,bash,terraform,nginx&theme=dark" />
+
+<br/><br/>
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## 💼 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%">
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🎓 CampusVibe
+**AI-Powered University Knowledge Assistant**
+
+Production-grade RAG platform for semantic discovery across institutional documents using local LLMs.
+
+`LlamaIndex` `Ollama` `FastAPI`
+`MongoDB Atlas` `Firebase`
+`Docker` `EKS` `Helm` `CI/CD`
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 Mental Health Predictor
+**Interactive ML Analytics Platform**
+
+End-to-end ML system predicting psychological wellness indicators from structured psychometric data, with live dashboards.
+
+`Python` `Scikit-Learn`
+`Pandas` `NumPy` `Streamlit`
+
+</td>
+<td width="33%" valign="top">
+
+### 🏗️ IaC & CD Portfolio
+**Infrastructure as Code Toolkit**
+
+Centralized repo of deployment pipelines and microservice orchestration frameworks built for production-grade observability.
+
+`AWS` `Kubernetes` `Docker`
+`Jenkins` `GitHub Actions`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Khuhsirox25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Khuhsirox25&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khuhsirox25&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Khuhsirox25&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khuhsirox25&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<!-- Contribution snake animation — needs a one-time GitHub Action setup, see note below -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Khuhsirox25/Khuhsirox25/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+## 🐍 Engineering Philosophy
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="180">
+</div>
 
 ```python
 while True:
@@ -138,3 +216,22 @@ while True:
     automate()
     monitor()
     optimize()
+    # repeat, because good infra is never "done"
+```
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always up for a conversation about cloud architecture, MLOps, or system design — reach out, or check out what I'm building.
+
+<a href="https://linkedin.com/in/khushi-agarwal-5745a8314"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:khushiagarwal5403@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7DD3FC,50:C084FC,100:0F0C29&section=footer"/>
+
+</div>
