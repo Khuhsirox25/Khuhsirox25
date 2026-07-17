@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0C29,50:7F5AF0,100:7DD3FC&text=Khushi%20Agarwal&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=35&desc=DevOps%20Engineer%20•%20Cloud%20Architect%20•%20AI%20Builder&descSize=20&descAlign=50&descAlignY=55&animation=fadeIn"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Khushi+%F0%9F%91%8B;I+build+cloud-native+systems+that+scale;DevOps+%7C+AI+%7C+Backend+Engineering;Welcome+to+my+corner+of+GitHub+%F0%9F%92%9C" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Khushi+%F0%9F%91%8B;I+build+cloud-native+systems+that+scale;DevOps+%7C+AI+%7C+Backend+Engineering;Welcome+to+my+corner+of+GitHub+%F0%9F%92%9C" />
 
 <br/>
 
@@ -56,6 +56,10 @@ I design, build, and automate resilient cloud-native infrastructures and intelli
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+</div>
 
 <br/>
 
@@ -178,7 +182,7 @@ Centralized repo of deployment pipelines and microservice orchestration framewor
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Khuhsirox25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Khuhsirox25&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://streak-stats.demolab.com/?user=Khuhsirox25&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -231,6 +235,12 @@ I'm always up for a conversation about cloud architecture, MLOps, or system desi
 <a href="mailto:khushiagarwal5403@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/221857984-99793e0c-eb85-4ae2-9c1e-8fe6f5b31346.gif" width="70">
+
+**Thanks for stopping by — always happy to connect and build something great together!**
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7DD3FC,50:C084FC,100:0F0C29&section=footer"/>
 
